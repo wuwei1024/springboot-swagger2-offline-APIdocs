@@ -1,0 +1,2 @@
+# springboot-swagger2-offline-APIdocs
+SpringBoot项目中使用Swagger2生成在线和离线RESTful API文档
